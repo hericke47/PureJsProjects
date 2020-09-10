@@ -35,7 +35,6 @@ a:hover {
   background: #242424;
   border-radius: 8px;
 
-  text-align: center;
   display: flex;
   flex-direction: column;
 }
