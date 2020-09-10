@@ -27,7 +27,9 @@ window.addEventListener('DOMContentLoaded', () => {
 // Selection tool
 
 const events = {
-  mouseover(){},
+  mouseover(){
+    this.style.cursor = 'crosshair'
+  },
   mousedown(){},
   mousemove(){},
   mouseup(){}
