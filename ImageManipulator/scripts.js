@@ -1,5 +1,7 @@
 // elemento de click para executar a função de arquivo do input
 const photoFile = document.getElementById('photo-file')
+let image = document.getElementById('photo-preview')
+//select and preview image
 
 document.getElementById('select-image')
 .onclick = function () {
@@ -16,8 +18,23 @@ window.addEventListener('DOMContentLoaded', () => {
     reader.readAsDataURL(file)
     reader.onload = function (event) {
       // colocando o estado do reader no src da imagem
-      let image = document.getElementById('photo-preview')
+      
       image.src = event.target.result
     }
   })
+})
+
+// Selection tool
+
+const events = {
+  mouseover(){},
+  mousedown(){},
+  mousemove(){},
+  mouseup(){}
+}
+
+//construtor que pega as chaves dos objeto 'events'
+Object.keys(events)
+.forEach(eventName => {
+  image.addEventListener(eventName, events[eventName])
 })

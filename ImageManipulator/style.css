@@ -12,7 +12,7 @@
 
 :root {
     --bg: #130f0d;
-    --orange: #fd951f;
+    --orange: #8257e6;
     --brown-opaque: rgba(250, 152, 5, 0.139);
     --white: #f0f0f9;
     --green: hsl(98 100% 62%);
@@ -106,3 +106,19 @@ img {
 #photo-file{
   display: none;
 }
+
+#photo-preview {
+  margin: .8rem 0 ;
+}
+
+#selection-tool {
+  position: fixed;
+  display: none;
+  border: 2px dashed var(--green);
+
+  /* top: 0;
+  left: 0;
+  width: 200px;
+  height: 200px;
+  */
+} 
