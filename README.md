@@ -10,3 +10,7 @@
 ### Propósito deste repositório
 
 <p>🚀️ Projetos com apenas html css e javascript puro, para praticar conceitos core da linguagem</p>
+
+### Projetos
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/46deacd7-cc31-4cd4-9232-fc34088e4c7c/deploy-status)](https://purejsprojects.netlify.app/imagemanipulator/)
