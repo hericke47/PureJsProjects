@@ -9,4 +9,9 @@ bar.style.top = "0"
 bar.style.left = "0"
 bar.style.zIndex = "9999"
 
+// adiciona no corpo da pagina
 document.body.append(bar);
+
+// atualizar a barra
+
+// verificar o movimento do scroll
