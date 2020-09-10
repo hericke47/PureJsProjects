@@ -4,7 +4,10 @@
 
 ### Project
 
-<img alt="projeto" src="./.github/project.png" width="500px" height="300px" />
-<img alt="projeto" src="./.github/imagem.png" width="500px" height="300px"/>
-<img alt="projeto" src="./.github/Corte.png" width="500px" height="300px"/>
-<img alt="projeto" src="./.github/Export.png" width="500px" height="300px"/>
+
+<div align="center"> 
+  <img alt="projeto" src="./.github/project.png" width="500px" height="300px" />
+  <img alt="projeto" src="./.github/imagem.png" width="500px" height="300px"/>
+  <img alt="projeto" src="./.github/Corte.png" width="500px" height="300px"/>
+  <img alt="projeto" src="./.github/Export.png" width="500px" height="300px"/>
+</div>
