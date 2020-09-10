@@ -5,7 +5,7 @@
 ### Project
 
 <div align="center"> 
-  <img alt="gif" src="./.github/gif.gif" width="500px" height="300px" />
+  <img alt="gif" src="./.github/gif.gif" width="500px" height="600px" />
 
 ### Link para visualizar o app
 
