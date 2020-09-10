@@ -2,7 +2,9 @@
   🚀️ A ideia desse projeto era criar uma barra de porcentagem de leitura da pagina 🚀️
 </h1>
 
-### Project
+<h1 align="center">
+  Project
+</h1>
 
 <div align="center"> 
   <img alt="gif" src="./.github/gif.gif" width="500px" height="600px" />
