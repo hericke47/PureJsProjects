@@ -14,4 +14,4 @@
 
 ### Testar
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/46deacd7-cc31-4cd4-9232-fc34088e4c7c/deploy-status)](https://purejsprojects.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/46deacd7-cc31-4cd4-9232-fc34088e4c7c/deploy-status)](https://purejsprojects.netlify.app/imagemanipulator/)
